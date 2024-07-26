@@ -1,47 +1,37 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "id": "yochat",
+      "name": "YoChat",
+      "createdAt": "Jan 2024",
+      "url": "https://github.com/Vishwaa-MS/YoChat",
+      "description": "Collaboratively engineered YoChat, a fullstack chat application, utilizing ReactJs and ChakraUI for dynamic UI design, ExpressJS and RESTAPI for robust backend development.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "NodeJs",
+          "iconifyClass": "logos-nodejs"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "ReactJS",
+          "iconifyClass": "simple-icons:react"
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "ExpressJS",
+          "iconifyClass": "logos-express"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "simple-icons:mongodb"
         }
       ]
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "id": "meal_connect",
+      "name": "Meal Connect",
+      "createdAt": "Feb 2024",
+      "url": "https://github.com/Vishwaa-MS/Meal-Conect",
+      "description": "Developed a platform for the DEVSOC’24 hackathon at VIT using Node.js, Express.js, MongoDB, HTML, CSS, and Bootstrap to streamline coordination between event organizers and NGOs",
       "isFork": false,
       "languages": [
         {
@@ -53,21 +43,51 @@
           "iconifyClass": "logos-css-3"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "NodeJs",
+          "iconifyClass": "logos-nodejs"
         },
         {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "ExpressJS",
+          "iconifyClass": "logos-express"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "simple-icons:mongodb"
         }
       ]
     },
     {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "id": "bokknpark",
+      "name": "Book-N-Park",
+      "createdAt": "May 2024",
+      "url": "https://github.com/Vishwaa-MS/Book-N-Park",
+      "description": "Crafted Book-N-Park, An IoT based Smart Parking System utilizing Raspberry Pi and a Fullstack parking application leveraging ReactJs, MaterialII for UI, ExpressJS and RESTAPI. Utilized SocketIO for real-time logs, alongside MongoDB for data management, Designed to streamline parking at my college campus, allowing users to register vehicles, reserve slots, and mitigate traffic and parking disorganization effectively.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "NodeJs",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "ReactJS",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "ExpressJS",
+          "iconifyClass": "logos-express"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "simple-icons:mongodb"
+        }
+      ]
+    },
+    {
+      "id": "weatherforecasting",
+      "name": "Weather Forcasting",
+      "createdAt": "March 2023",
+      "url": "https://github.com/Vishwaa-MS/Weather-Prediction",
+      "description": " Utilized ARIMA for time-series forecasting to advise on agricultural irrigation and suggest efficient irrigation methods",
       "isFork": false,
       "languages": [
         {
@@ -79,44 +99,12 @@
           "iconifyClass": "logos-css-3"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "Flask",
+          "iconifyClass": "simple-icons:flask"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Machine Learning",
+          "iconifyClass": "hugeicons:ai-brain-02"
         }
       ]
     }
